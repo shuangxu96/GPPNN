@@ -1,4 +1,2 @@
 # GPPNN
-The official code for
-
-S Xu, J Zhang, Z Zhao, K Sun, J Liu, C Zhang. Deep Gradient Projection Networks for Pan-sharpening. CVPR 2021
+The official code for <a href="https://arxiv.org/abs/2103.05946">[Deep Gradient Projection Networks for Pan-sharpening]</a>
